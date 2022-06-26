@@ -54,7 +54,7 @@ public class ExpenseManagerSystemTest {
 		
        // if(result.getStatus() == ITestResult.FAILURE) {
 			//You need to enter your JIRA Username and Password in below line
-        //	BasicCredentials cred = new BasicCredentials("", "");
+        //	BasicCredentials cred = new BasicCredentials("geeta.tolanoor@siemens.com", "cycle@123");
 			
 			//You need to enter your JIRA machine IP address with port 8080 in below line
         //	JiraClient jira = new JiraClient("", cred);
@@ -62,7 +62,7 @@ public class ExpenseManagerSystemTest {
 			//You need to enter your JIRA project key in below line
         //	Issue issueName = jira.createIssue("", "Bug").field(Field.SUMMARY, result.getMethod().getMethodName() +"is failed due to: "+ result.getThrowable().toString()).field(Field.DESCRIPTION, "get the description").execute();
         //	System.out.println("Issue is created in Jira with Issue Key: "+issueName.getKey());
-        }
+      //  }
 
 	}
 	
